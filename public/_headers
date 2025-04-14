@@ -1,0 +1,9 @@
+/*
+
+  # JS como módulo
+  *.js:
+    Content-Type: text/javascript
+
+  # CSS
+  *.css:
+    Content-Type: text/css
